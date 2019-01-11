@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pong", "pong\pong\pong.csproj", "{A853B7B6-41EF-437F-8BF1-CF73E01DCC2F}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "pongContent", "pong\pongContent\pongContent.contentproj", "{048E2748-B1BF-412D-A2D3-12A49B45629B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A853B7B6-41EF-437F-8BF1-CF73E01DCC2F}.Debug|x86.ActiveCfg = Debug|x86
+		{A853B7B6-41EF-437F-8BF1-CF73E01DCC2F}.Debug|x86.Build.0 = Debug|x86
+		{A853B7B6-41EF-437F-8BF1-CF73E01DCC2F}.Release|x86.ActiveCfg = Release|x86
+		{A853B7B6-41EF-437F-8BF1-CF73E01DCC2F}.Release|x86.Build.0 = Release|x86
+		{048E2748-B1BF-412D-A2D3-12A49B45629B}.Debug|x86.ActiveCfg = Debug|x86
+		{048E2748-B1BF-412D-A2D3-12A49B45629B}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
